@@ -1,0 +1,5 @@
+Hello Samiksha
+This will open in example.txtHello World
+This will be also get printed on example.txtHello World
+This will be also get printed on example.txtHello World
+This will be also get printed on example.txt
